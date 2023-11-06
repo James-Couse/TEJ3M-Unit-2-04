@@ -1,7 +1,7 @@
 """
 Created by: James Couse
 Created on: Oct 23 2023
-This module turns the builtin LED on and off.
+This module cycles an RGB LED through all colours.
 """
 
 import time
